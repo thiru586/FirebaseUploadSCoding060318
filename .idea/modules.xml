@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/FirebaseUploadSCoding.iml" filepath="$PROJECT_DIR$/FirebaseUploadSCoding.iml" />
+      <module fileurl="file://C:\Users\JEEVES\Documents\GitHub\FirebaseUploadSCoding060318\FirebaseUploadSCoding.iml" filepath="C:\Users\JEEVES\Documents\GitHub\FirebaseUploadSCoding060318\FirebaseUploadSCoding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FirebaseUploadSCoding060318.iml" filepath="$PROJECT_DIR$/FirebaseUploadSCoding060318.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
